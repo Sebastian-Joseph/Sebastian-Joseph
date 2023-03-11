@@ -1,18 +1,18 @@
 ### Hi there! 
 
-## I'm Sebastian Joseph | Aspiring Java Developer
+## I'm Sebastian Joseph | Aspiring Java & Mobile Developer 
 
 - Currently working on a Budgeting App
-- Learning App Development with Flutter
+- Learning App Development with Java & Android Studio
 - Co-Creator of 2D Platforming Game: Pencil McGee
-- Creator of Emotions (Work In Progress). A 2D Platform Game
+- Creator of Emotions. A 2D Platform Game
 
 ### Skills
 
 - Java
 - HTML / CSS
 - Python
-- Flutter
+
 
 ### Interests
 - App Development
