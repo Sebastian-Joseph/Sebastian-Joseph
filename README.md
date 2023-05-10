@@ -3,7 +3,7 @@
 ## I'm Sebastian Joseph | Aspiring Java & Mobile Developer 
 
 - Currently working on a Budgeting App
-- Learning App Development with Java & Android Studio
+- Learning App Development with Flutter, Java & Android Studio
 - Co-Creator of 2D Platforming Game: Pencil McGee
 - Creator of Emotions. A 2D Platform Game (WIP)
 
