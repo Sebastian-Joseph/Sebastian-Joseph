@@ -9,15 +9,17 @@
 
 ### Skills
 
-- Java
-- HTML / CSS
-- Python
+- ☕ Java
+- 💻 HTML / CSS
+- 🐍 Python
+- 🎯 Dart
+- ⏪ Flutter SDK
 
 
 ### Interests
-- App Development
-- Video Game Development
-- AI/ML
+- 📱 App Development
+- 🎮 Video Game Development
+- 🤖 AI/ML
 
 
 [![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-joseph)](https://github.com/anuraghazra/github-readme-stats)
