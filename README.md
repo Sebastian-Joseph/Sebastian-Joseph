@@ -2,22 +2,22 @@
 
 ## I'm Sebastian Joseph | Aspiring Java & Mobile App Developer 
 
-- Currently searching for an internship in App Development
+- Currently searching for an internship in App Development or Java Development
 - Learning App Development with Java & Android Studio
-- Co-Creator of 2D Platforming Game: Pencil McGee & Queen Industries
+- Creator of multiple Android Apps
 
 ### Skills
 
 - ☕ Java
-- 💻 HTML / CSS
+- 💻 HTML / CSS / JavaScript
 - 🐍 Python
-- 🔵 Javascript
+- 🔵 R
 
 
 ### Interests
 - 📱 App Development
 - 🎮 Video Game Development
-- 💸 Financial Technology
+- ☕ Java Development
 
 
 [![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-joseph)](https://github.com/anuraghazra/github-readme-stats)
